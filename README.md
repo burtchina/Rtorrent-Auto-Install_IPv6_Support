@@ -1,3 +1,4 @@
+# Download the source code of libtorrent and rtorrent from github. And enable the ipv6 support
 
 # Rtorrent + Rutorrent Auto Install Script by Patrick Kerwood
 
